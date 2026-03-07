@@ -1,1 +1,2 @@
 DEVOPS IS SIMPLE
+Git makes collaboration easy
